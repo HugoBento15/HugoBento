@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, My name is Hugo Bento</h1>
+<h2 align="center">Hello , my name is Hugo Bento</h2>
 <h3 align="center">[ENG] I aim for a junior programming position which relates to my experience and studies in FullStack, Angular or RPA. [SPA]Aspiro a un puesto de programador junior que se relacione a mi experiencia y estudios en FullStack, Angular o RPA.</h3>
 
 - 🔭 I’m currently working on **my own projects to gain experience and enhance my portfolio**
